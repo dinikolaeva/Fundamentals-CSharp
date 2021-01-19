@@ -91,3 +91,24 @@
 /03.BasicSyntaxConditionalStatementsAndLoops-MoreExercise/04.ReverseString/obj
 /03.BasicSyntaxConditionalStatementsAndLoops-MoreExercise/05.Messages/bin/Debug/netcoreapp3.1
 /03.BasicSyntaxConditionalStatementsAndLoops-MoreExercise/05.Messages/obj
+/04.DataTypesAndVariables-Lab/.vs/Data Types and Variables - Lab.Exe/DesignTimeBuild/*.v2
+/04.DataTypesAndVariables-Lab/.vs/Data Types and Variables - Lab.Exe/v16/*.suo
+/04.DataTypesAndVariables-Lab/01. ConvertMetersToKilometers/bin/Debug/netcoreapp3.1
+/04.DataTypesAndVariables-Lab/01. ConvertMetersToKilometers/obj
+/04.DataTypesAndVariables-Lab/02.PoundsТoDollars/bin/Debug/netcoreapp3.1
+/04.DataTypesAndVariables-Lab/02.PoundsТoDollars/obj
+/04.DataTypesAndVariables-Lab/03.ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/*.json
+/04.DataTypesAndVariables-Lab/03.ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/*.dll
+/04.DataTypesAndVariables-Lab/03.ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/*.exe
+/04.DataTypesAndVariables-Lab/03.ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/*.pdb
+/04.DataTypesAndVariables-Lab/03.ExactSumOfRealNumbers/obj/*.json
+/04.DataTypesAndVariables-Lab/03.ExactSumOfRealNumbers/obj/*.props
+/04.DataTypesAndVariables-Lab/03.ExactSumOfRealNumbers/obj/*.targets
+*.cache
+*.txt
+*.dll
+*.exe
+*.pdb
+netcoreapp3.1
+obj
+*.sln
