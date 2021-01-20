@@ -112,3 +112,5 @@
 netcoreapp3.1
 obj
 *.sln
+*.v2
+/06.DataTypesAnd Variables-MoreExercise/.vs/Data Types and Variables - More Exercise/v16/*.suo
